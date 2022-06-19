@@ -1,7 +1,7 @@
-public class Hello {
+public class HelloDuDa {
 
     public static void main(String[] args) {
-        Hello h = new Hello();
+        HelloDuDa h = new HelloDuDa();
         h.grussErdinger();
     }
 
